@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## 关于十九大对十四五规划的影响
 
-You can use the [editor on GitHub](https://github.com/YjXbdotcom/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ [如何理解“十四五”时期经济社会发展主要目标]（http://81.cn/jfjbmap/content/2021-03/19/content_285183.htm）
+十四五”发展目标锚定二〇三五年远景目标，体现了党中央推进社会主义现代化的系统观念。党的十九届五中全会在十九大对到2035年基本实现社会主义现代化作出描绘的基础上，从国家实力、经济体系、国家治理等方面更清晰地擘画二〇三五年远景目标，而且以二〇三五年远景目标为指针来谋划“十四五”发展目标。相比“十三五”规划重在擘画决胜全面建成小康社会的发展蓝图和路线图，“十四五”规划更加注重中长期目标和短期目标相贯通，赋予了“十四五”发展要锚定二〇三五年远景目标并为其夯实基础的战略意义。
+**及E网知行活动的意义
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+对我校学生高效开展课外网络内容学习，加强思政教育具有极高的活动意义
 
-### Markdown
+## 党的成就过去综述
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[我国全面推进依法治国新成就综述](http://cpc.people.com.cn/big5/n1/2018/0907/c419242-30277790.html)
+在习近平新时代中国特色社会主义思想的指引下，民主法治建设迈出重大步伐，党的领导、人民当家作主、依法治国有机统一的制度建设全面加强，党的领导体制机制不断完善；
 
-```markdown
-Syntax highlighted code block
+科学立法、严格执法、公正司法、全民守法深入推进，法治国家、法治政府、法治社会建设相互促进，中国特色社会主义法治体系日益完善，全社会法治观念明显增强；
 
-# Header 1
-## Header 2
-### Header 3
+国家监察体制改革、行政体制改革、司法体制改革、权力运行制约和监督体系建设有效实施，全面依法治国取得了举世瞩目的新进展、新成就，谱写下法治中国建设的崭新篇章。
+## 党的未来规划概述
 
-- Bulleted
-- List
+人无精神不立，国无精神不强。
 
-1. Numbered
-2. List
+　　党的十九大以来，精神文明建设工作以习近平总书记重要讲话精神为指引，把培养时代新人作为着眼点，培育和践行社会主义核心价值观，引导全社会树立文明观念、提高文明程度、形成文明风尚，不断推动人民在理想信念、价值理念、道德观念上紧紧团结在一起，为实现“两个一百年”奋斗目标和中华民族伟大复兴的中国梦凝聚强大精神力量。
 
-**Bold** and _Italic_ and `Code` text
+　　坚定理想信念 培育时代新人
+  [党的十九大以来精神文明建设综述](https://www.chinanews.com/gn/2020/11-18/9341599.shtml
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[网页设计参赛者信息.docx](https://github.com/YjXbdotcom/github.io/files/6175737/default.docx)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YjXbdotcom/github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
